@@ -3,7 +3,7 @@
   # ℳatheus ℘hilip
   
   <p align="center">
-    <i>"If we possess our why of life we can put up with almost any how." — Friedrich Nietzsche</i>
+    <i>"If we possess our why of life we can put up with almost any how." — Friedrich Nietzsche, Twilight of the Idols.</i>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=header" width="100%"/>

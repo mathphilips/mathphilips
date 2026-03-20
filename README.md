@@ -79,7 +79,10 @@ If you wish to discuss code, philosophy, or the complexity of human nature, you 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/thesirphilips">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/photographilips">
+    <img src="https://img.shields.io/badge/Instagram-Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 

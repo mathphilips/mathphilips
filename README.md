@@ -12,11 +12,11 @@
 
 ### 🕯️ The Author
 
-Welcome to my digital study. I am **Matheus Philip** (also known as Philip Oliveira), a 19-year-old developer based in Brazil. 
+Welcome to my digital study. I am **Philip Oliveira** (also known as Matheus Philip), a 19-year-old developer based in Brazil. 
 
-I view the world through the lens of systems and patterns, like an Introverted Thinker in Junguian's term. Currently, I am an undergraduate in **System Analysis and Development**, aiming to bring order to chaos through code. 
+Currently, I am an undergraduate in **System Analysis and Development** at Estácio de Sá Santa Catarina. 
 
-As someone with **Asperger's Syndrome (ASD)**, I possess a deep focus and a distinct perspective on logic and structure. My mind is a library where theology, existential philosophy, and Java objects coexist. When I am not defining classes or debugging logic, you will find me composing music, reading the works of the Reformers, or gazing at the stars.
+I possess a deep focus and a distinct perspective on logic and structure. My mind is a library where existential philosophy and Java objects coexist.
 
 ---
 
@@ -26,7 +26,7 @@ I specialize in the **Java Ecosystem**, focusing on backend development and stri
 
 | **Language** | **Frameworks** | **Database** | **Tools** |
 | :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 | | *Learning Basics* | *Learning Basics* | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
@@ -55,9 +55,9 @@ Here are a few studies I have conducted in logic and syntax:
 
 My life extends beyond the IDE. I am a **singer-songwriter** and a student of the humanities.
 
-* **Theology & Philosophy:** My worldview is shaped by Reformed Theology (Calvin, Ursinus) and the existential inquiries of Kierkegaard and Sartre.
+* **Theology & Philosophy:** My worldview is shaped by Reformed Theology (Calvin, Ursinus) and the existential inquiries of Kierkegaard, Sartre and Beauvoir.
 * **Literature:** An avid reader of the Russian classics (Dostoevsky, Tolstoy) and Kafka.
-* **Languages:** Portuguese (Native) & English (C1/IELTS 7).
+* **Languages:** Portuguese (Native), English (C1), French (A1) and Russian (A1).
 
 <div align="center">
   <a href="https://www.youtube.com/@MPhilipYT/videos">
@@ -72,7 +72,7 @@ My life extends beyond the IDE. I am a **singer-songwriter** and a student of th
 
 ### 📬 Correspondence
 
-If you wish to discuss code, theology, or the complexity of human nature, you may reach me here:
+If you wish to discuss code, philosophy, or the complexity of human nature, you may reach me here:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mathphilips22/">

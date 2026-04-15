@@ -10,17 +10,15 @@
 
 </div>
 
-### 🕯️ The Author
+### 🕯️ The programmer
 
-Welcome to my digital study. I am **Philip Oliveira** (also known as Matheus Philip), a 19-year-old developer based in Brazil. 
-
-Currently, I am an undergraduate in **System Analysis and Development** at Estácio de Sá Santa Catarina. 
-
-I possess a deep focus and a distinct perspective on logic and structure. My mind is a library where existential philosophy and Java objects coexist.
+Welcome to my digital portflio. I'm **Philip Oliveira** (or Matheus Philip), a 19-year-old developer based in Brazil. 
+Currently, I am an undergraduate in **System Analysis and Development** at Estácio de Sá Santa Catarina and working at the Federal Institute of Education, Science and Technology of Tocantins.
+I have a deep focus and a strong curiousity about logic and structure. 
 
 ---
 
-### 🏛️ The Tech Stack (Tools of the Trade)
+### 🏛️ The tech stack
 
 I specialize in the **Java Ecosystem**, focusing on backend development and strict typing.
 
@@ -31,9 +29,9 @@ I specialize in the **Java Ecosystem**, focusing on backend development and stri
 
 ---
 
-### 📜 Selected Manuscripts (Projects)
+### 📜 Selected projects
 
-Here are a few studies I have conducted in logic and syntax:
+Here are a few projects I created and their links:
 
 * **[Simple Java User Registration](https://github.com/mathphilips/simplejavauserregistration)**
     <br>_A backend study on data persistence and user management logic._
@@ -49,13 +47,12 @@ Here are a few studies I have conducted in logic and syntax:
 
 ---
 
-### 🎻 Beyond the Code
+### 🎻 Beyond the code
 
-> *"Everything is worth writing about if you have the depth to see it."*
+> *"My future's brighter than my past. - **August Burns Red**"*
 
-My life extends beyond the IDE. I am a **singer-songwriter** and a student of the humanities.
+My life extends beyond the IDE. I am a **singer-songwriter** and also:
 
-* **Theology & Philosophy:** My worldview is shaped by Reformed Theology (Calvin, Ursinus) and the existential inquiries of Kierkegaard, Sartre and Beauvoir.
 * **Literature:** An avid reader of the Russian classics (Dostoevsky, Tolstoy) and Kafka.
 * **Languages:** Portuguese (Native), English (C1), French (A1) and Russian (A1).
 
@@ -70,9 +67,9 @@ My life extends beyond the IDE. I am a **singer-songwriter** and a student of th
 
 ---
 
-### 📬 Correspondence
+### 📬 Social media
 
-If you wish to discuss code, philosophy, or the complexity of human nature, you may reach me here:
+If you wish to discuss something with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mathphilips22/">
